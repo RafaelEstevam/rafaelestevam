@@ -1,6 +1,6 @@
 ### Welcome to my Github profile! 👋
 
-I'm a Full Stack Developer with experience in a variety of technologies with focused on Front-end tecnologies like React.JS, Typescript, Next.JS, Node.JS, GraphQL, MongoDB and others.
+I'm a Full Stack Developer with experience in a variety of technologies with focused on Frontend tecnologies like React.JS, Typescript, Next.JS, Node.JS, GraphQL, MongoDB and others.
 
 I,m a Full Stack MERN development.
 
