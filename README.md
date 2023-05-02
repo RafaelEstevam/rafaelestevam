@@ -1,8 +1,6 @@
 ### Welcome to my Github profile! 👋
 
-I'm a Full Stack Developer with experience in a variety of technologies with focused on Frontend tecnologies like React.JS, Typescript, Next.JS, Node.JS, GraphQL, MongoDB and others.
-
-I,m a Full Stack MERN developer.
+I'm a Full Stack MERN Developer with experience in a variety of technologies with focused on Frontend tecnologies like React.JS, Typescript, Next.JS, Node.JS, GraphQL, MongoDB and others.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
