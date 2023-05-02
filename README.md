@@ -1,16 +1,30 @@
 ### Welcome to my Github profile! 👋
 
-I'm a Full Stack Developer with experience in a variety of technologies but focused on Front-end Tecnologies like React.JS, Typescript, Next.JS, Node.JS, GraphQL, MongoDB and others.
+I'm a Full Stack Developer with experience in a variety of technologies with focused on Front-end tecnologies like React.JS, Typescript, Next.JS, Node.JS, GraphQL, MongoDB and others.
 
-![https://github.com/RafaelEstevam](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![mailto://rafael.estevamdeisng@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://github.com/RafaelEstevam](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+I,m a Full Stack MERN development.
 
-## Github Resumme
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+
+
+My contacts.
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-estevam-de-oliveira/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rafael.estevamdeisng@gmail.com) [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/RafaelEstevam)
+
+# Goals
+
+I want to be a technical leader and help my team find solutions for the most diverse cases.
+
+
+# Resumme
 
 I'm currently working with React.JS, Node.JS, MongoDB, GraphQL, Typescript, Storybook and Cypress in my personal projects and my Freelancer projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelestevam&hide=contribs,prs&theme=midnight-purple&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelestevam&hide_progress=true&theme=midnight-purple)](https://github.com/rafaelestevam/github-readme-stats)
 
 # Main skills:
+
+Below, some tecnologies them I worked along of my professional experiences and case of studies.
 
 ## Frontend Devlopment
 
@@ -26,7 +40,7 @@ I'm currently working with React.JS, Node.JS, MongoDB, GraphQL, Typescript, Stor
 
 ## DBA Development
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## DevOps
 
