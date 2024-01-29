@@ -18,7 +18,7 @@ I want to be a technical leader and help my team find solutions for the most div
 
 I'm currently working with React.JS, Node.JS, MongoDB, GraphQL, Typescript, Storybook and Cypress in my personal projects and my Freelancer projects.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelestevam&hide=contribs,prs&theme=midnight-purple&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelestevam&hide_progress=true&theme=midnight-purple)](https://github.com/rafaelestevam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelestevam&hide_progress=true&theme=midnight-purple)](https://github.com/rafaelestevam/github-readme-stats)
 
 # Main skills:
 
